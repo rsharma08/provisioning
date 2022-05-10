@@ -1,4 +1,5 @@
 .terraform
-*.tfstate
+*.tfstate*
 provider.tf
 .terraform.lock.hcl
+*.pem
